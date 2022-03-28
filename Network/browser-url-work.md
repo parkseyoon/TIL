@@ -6,6 +6,7 @@
 어떤 프로토콜로, 어느 도메인으로, 어떤 포트로 보낼지 해석하게 되는것이다.(이를 URL 파싱이라 부른다.)
 
 기본적으로 URL의 구조는 다음과 같다.
+
 ![url structure](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdfjElB%2FbtqDH2sKASg%2F236MABv8iJyBDUkm4TdhkK%2Fimg.png)
 
 어떤 프로토콜을 통해 해당 URL에 요청하고, 어떤 URl로 요청하고, 어떤 포트로 요청할 것인지 브라우저에서 각각의 프로토콜, URL, 포트를 해석하여 분석한다.
