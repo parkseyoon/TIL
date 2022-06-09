@@ -19,3 +19,4 @@ JavaScript
 OS
 - [OS의 일반적인 작동방식](https://github.com/frontyoon/TIL/blob/main/OS/mechanics-of-os.md)
 - [프로세스 관리](https://github.com/frontyoon/TIL/blob/main/OS/process-management.md)
+- [스레드와 동시성](https://github.com/frontyoon/TIL/blob/main/OS/thread-and-concurrency.md)
