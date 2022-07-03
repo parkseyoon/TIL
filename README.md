@@ -12,6 +12,7 @@ Network
 - [브라우저에 URL을 입력하면 생기는 일!!](https://github.com/frontyoon/TIL/blob/main/Network/browser-url-work.md)
 - [호스팅이란 무엇일까??](https://github.com/frontyoon/TIL/blob/main/Network/what-is-hosting.md)
 - [HTTP란 무엇일까??](https://github.com/frontyoon/TIL/blob/main/Network/what-is-http.md)
+- [CORS란 대체 무엇일까?? (+SOP)](https://github.com/frontyoon/TIL/blob/main/Network/what-is-CORS.md)
 
 JavaScript
 - [Javascript Immutability](https://github.com/frontyoon/TIL/blob/main/JavaScript/immutability.md)
