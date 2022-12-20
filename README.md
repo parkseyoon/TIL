@@ -23,7 +23,7 @@ OS
 - [스레드와 동시성](https://github.com/parkseyoon/TIL/blob/main/OS/thread-and-concurrency.md)
 
 Swift
-- [Optional(옵셔널)](https://github.com/parkseyoon/TIL/blob/main/optional.md)
+- [Optional(옵셔널)](https://github.com/parkseyoon/TIL/blob/main/Swift/optional.md)
 
 SwiftUI
 - [Alert 띄우는 방법](https://github.com/parkseyoon/TIL/blob/main/SwiftUI/alert.md)
